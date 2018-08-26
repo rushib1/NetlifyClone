@@ -10,7 +10,7 @@ deploy logs can be seen within the site-info.
 
 Needs a little bit setup using nginx and dnsmasq to get it running.
 
-Things learned:-
+Things learned:-\n
   -react with flask
   -nginx reverse proxying
   -nginx static files serving
